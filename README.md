@@ -1,2 +1,2 @@
 # Proyecto-Dashboard-Django
-Dashboard about gamer's shop income
+Dashboard about gamer's shop earnings
